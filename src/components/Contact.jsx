@@ -63,7 +63,7 @@ export const Contact = () => {
         submitting: false,
         success: true,
         error: false,
-        message: "Message sent successfully!",
+        message: "Đã Gửi Thư Thành Công!",
       });
 
       setFormData({
